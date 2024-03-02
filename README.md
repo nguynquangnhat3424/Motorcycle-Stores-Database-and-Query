@@ -31,6 +31,6 @@ The database will be designed using the following principles:
 
 **Conclusion**
 
-This project demonstrates how to create a database for a retail store using SQL. The database will provide a number of benefits, including improved data organization and management, increased data accuracy and consistency, enhanced data access and retrieval, and improved decision-making.
+This project demonstrates how to create a database for a motorcycle store using SQL. The database will provide a number of benefits, including improved data organization and management, increased data accuracy and consistency, enhanced data access and retrieval, and improved decision-making.
 
 ![image](https://github.com/nguynquangnhat3424/Motorcycle-Stores-Database-and-Query/assets/161932466/db7b601a-dc10-457f-a3a0-19028f2d9b23)
