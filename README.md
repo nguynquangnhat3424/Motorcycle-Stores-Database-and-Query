@@ -21,14 +21,6 @@ This project aims to create a database for a motorcycle store using SQL. The dat
 * **Write sample queries:** Sample queries will be written to retrieve data from the database.
 * **Test user permissions:** The functionality of the database will be tested with different user permissions.
 
-**Database Design**
-
-The database will be designed using the following principles:
-
-* **Normalization:** The tables will be normalized to reduce data redundancy and improve data integrity.
-* **Referential integrity:** Referential integrity will be enforced between the tables to ensure data consistency.
-* **Data types:** The appropriate data types will be used for each column in the tables.
-
 **Conclusion**
 
 This project demonstrates how to create a database for a motorcycle store using SQL. The database will provide a number of benefits, including improved data organization and management, increased data accuracy and consistency, enhanced data access and retrieval, and improved decision-making.
